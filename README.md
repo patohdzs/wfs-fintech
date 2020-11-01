@@ -1,2 +1,2 @@
-# wfs-fintech-workshops
- Notebooks utilized in WFS FinTech workshops 2020-2021
+# WFSxFinTech workshops
+ Materials utilized in WFS FinTech workshops 2020-2021
