@@ -1,4 +1,4 @@
-# WFS x FinTech 2020-2021
+# WFS FinTech 2020-2021
 Notebooks, code scripts, datasets, and assorted files used in WFS FinTech workshops 2020-2021
 
 ## House Hunters: Predicting Real Estate Prices Using Machine Learning in Python
