@@ -1,5 +1,5 @@
 # WFS FinTech 2020-2021
-Notebooks, code scripts, datasets, and assorted files used in WFS FinTech workshops 2020-2021
+Materials used in WFS FinTech workshops 2020-2021
 
 ## House Hunters: Predicting Real Estate Prices Using Machine Learning in Python
 Are you interested in machine learning and data science applications in finance? Warwick Finance Societies and Warwick Analytics Society are glad to bring to you 'House Hunters: Predicting Real Estate Prices Using Machine Learning in Python'.
